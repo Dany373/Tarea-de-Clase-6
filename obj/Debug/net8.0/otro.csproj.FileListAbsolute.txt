@@ -1,0 +1,14 @@
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\bin\Debug\net8.0\otro.exe
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\bin\Debug\net8.0\otro.deps.json
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\bin\Debug\net8.0\otro.runtimeconfig.json
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\bin\Debug\net8.0\otro.dll
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\bin\Debug\net8.0\otro.pdb
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\obj\Debug\net8.0\otro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\obj\Debug\net8.0\otro.AssemblyInfoInputs.cache
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\obj\Debug\net8.0\otro.AssemblyInfo.cs
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\obj\Debug\net8.0\otro.csproj.CoreCompileInputs.cache
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\obj\Debug\net8.0\otro.dll
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\obj\Debug\net8.0\refint\otro.dll
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\obj\Debug\net8.0\otro.pdb
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\obj\Debug\net8.0\otro.genruntimeconfig.cache
+C:\Users\LINAJE ESCOGIDO\source\repos\otro\otro\obj\Debug\net8.0\ref\otro.dll
